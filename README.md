@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Ishigami-suhlaing
-- 👀 I’m interested in coding, creating, and cooling.
+- 👀 I’m interested in coding, creating, and learning.
 - 🌱 I’m currently learning mobile app development.
 - 💞️ I’m looking to collaborate on real-world projects
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me ...just say hay hay su hlaing
 - ⚡ Fun fact: I'm very talkactive and warm.
 
 <!---
